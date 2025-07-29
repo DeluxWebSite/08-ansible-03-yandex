@@ -3,7 +3,7 @@
 ## Подготовка к выполнению
 
 1. Подготовьте в Yandex Cloud три хоста: для `clickhouse`, для `vector` и для `lighthouse`.
-   ![img_4.png](img_4.png)
+   ![]())
 2. Репозиторий LightHouse находится [по ссылке](https://github.com/VKCOM/lighthouse).
 
 ## Основная часть
